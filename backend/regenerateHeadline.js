@@ -1,0 +1,1 @@
+// regenerateHeadline.js - placeholder
